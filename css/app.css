@@ -2449,7 +2449,7 @@ body.dark .btn_border:hover .icon {
 }
 
 .header__pic {
-  width: 138px;
+  width: 155px;
 }
 
 .header__pic_light {
@@ -3940,7 +3940,7 @@ body.dark .review .owl-carousel .owl-nav button.owl-next:hover .icon {
 }
 
 .footer__pic {
-  width: 138px;
+  width: 155px;
 }
 
 .footer__pic_light {
@@ -6881,7 +6881,7 @@ body.dark .field__input, body.dark .field__textarea {
     padding: 0 32px;
   }
   .header__pic {
-    width: 115px;
+    width: 173px;
   }
   .header__wrapper {
     padding: 128px 32px 40px;
